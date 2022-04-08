@@ -21,8 +21,3 @@ printf("Size of a float: %lu byte(s)\n", sizeof(c_float));
 
 return (0);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-S

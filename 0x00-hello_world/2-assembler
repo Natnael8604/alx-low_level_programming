@@ -1,4 +1,5 @@
 #!/bin/bash
-gcc -5 $CFILE
+gcc -S $CFILE > ${CFILE::-2}".s"
+
 
 
